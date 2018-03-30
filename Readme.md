@@ -4,7 +4,7 @@
 
 ### Summary
 
-This is a Library of some useful utilities.
+Some useful utilities.
 
 - Best Match
 - Character Frequncy
